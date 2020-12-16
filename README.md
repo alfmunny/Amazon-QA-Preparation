@@ -12,3 +12,4 @@ https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-
 | Substrings of size K with K distinct chars          | Sliding Window                                                                      |
 | Items in Containers                                 | Pre Sum; Nearest left; Nearest right                                                |
 | Aircraft Route Optimization                         | Two pointers                                                                        |
+| Min Cost to Connect Ropes                           | Heap. Connect two smallest, push back to heap                                       |
