@@ -14,3 +14,6 @@ https://leetcode.com/discuss/interview-question/344650/Amazon-Online-Assessment-
 | Aircraft Route Optimization                         | Two pointers                                                                        |
 | Min Cost to Connect Ropes                           | Heap. Connect two smallest, push back to heap                                       |
 | Amazon Fresh Promotion                              | Sliding Window.                                                                     |
+| Largest Item Association                            |                                                                                     |
+| Turnstile                                           |                                                                                     |
+|-----------------------------------------------------|-------------------------------------------------------------------------------------|
